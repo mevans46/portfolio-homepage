@@ -5,6 +5,9 @@
 git clone https://github.com/mevans46/portfolio-homepage.git
 ```
 ```
+cd portfolio-homepage
+```
+```
 npm i
 ```
 To run in development mode: 
